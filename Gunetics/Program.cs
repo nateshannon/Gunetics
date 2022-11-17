@@ -59,7 +59,7 @@ namespace Gunetics
             // later: wing geometry point 1 and 2, root is one side of rectangle
 
 
-
+            Console.WriteLine("Hello world");
 
             Console.WriteLine("");
             Console.WriteLine("=== GNA ===");
